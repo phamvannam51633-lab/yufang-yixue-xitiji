@@ -1,0 +1,7 @@
+node_modules/
+*.pdf
+*.msi
+*.png
+*.jpg
+ocr_output/page_*.png
+*.code-workspace
